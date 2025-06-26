@@ -68,4 +68,4 @@ Things to share with college candidates before assignment.
 They will be building and deploying a service with a couple of endpoints.
 They have to submit the deployed endpoint and github repo.
 We’ll run an automated test with the hosted url link you submit. Just submit the base URL, we’ll append the endpoint (\ingest and then we’ll call with our payload and test it)
-Submission link https://forms.gle/6HWbbfHywwqeN8Hz5
+
